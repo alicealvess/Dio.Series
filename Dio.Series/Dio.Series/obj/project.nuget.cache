@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6orgu5JYPezubqOZMbiO3Yf9ZHJLlbzFjBvC4WPdNX2iydkNbeQ6NEOKNezBFVJKt4dsQgSGHQ/3I1QRlDOhEw==",
+  "success": true,
+  "projectFilePath": "D:\\Alice\\Dio\\Dio.Series\\Dio.Series\\Dio.Series.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
